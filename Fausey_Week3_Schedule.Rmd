@@ -8,10 +8,22 @@ output: html_notebook
 
 # Schedule
 
+___
+
 ### Maps & The Geo-Spatial Revolution (GEOG 6N)
 
-Delete this text and tell us about one course you are taking this semester. Don't forget to embed an image and link to a related webpage on the subject.
+This course focuses on how maps change the way we live our lives, specifically diving into the many useful features of digital mapping software that allow us to visualize information in a spatial setting.
 
+This is a three-credit course for me this semester. Just like STAT 184, there are no set meeting times, so I end up working on it about twice per week, for a few hours at a time.
+
+This map shows different regions and communities of Pennsylvania, separated and color coded based on average observed lifestyle.
+
+![GIS Mapping Software](geog6n.png)
+
+
+[*Geofiction*](https://opengeofiction.net/#map=12/21.1430/84.0162&layers=B) is a community-editable map of fictional setting, using the Open Street Map (OSM) platform.
+
+___
 
 ### Reading, Listening, & Writing
 
