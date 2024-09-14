@@ -1,0 +1,26 @@
+---
+title: "Markdown Schedule"
+subtitle: "Week 3 Activity"
+author: "Branson T Fausey"
+date: "14 September 2024"
+output: html_notebook
+---
+
+# Schedule
+
+### Maps & The Geo-Spatial Revolution (GEOG 6N)
+
+Delete this text and tell us about one course you are taking this semester. Don't forget to embed an image and link to a related webpage on the subject.
+
+
+### Reading, Listening, & Writing
+
+Delete this text and tell us about the activity. Be sure to mention how frequently you will engage in this activity this semester.
+
+
+### Wildlife Photogaphy
+
+Delete this text and tell us about the activity.
+
+
+
