@@ -2,7 +2,7 @@
 title: "Markdown Schedule"
 subtitle: "Week 3 Activity"
 author: "Branson T Fausey"
-date: "14 September 2024"
+date: "16 September 2024"
 output: html_notebook
 ---
 
